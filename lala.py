@@ -24,9 +24,9 @@ logging.basicConfig(
 TELEGRAM_BOT_TOKEN = '8146585403:AAFJYRvEErZ9NuZ9ufyf8cvXyWOzs0lIB4k'
 OWNER_USERNAME = "Riyahacksyt"
 ALLOWED_GROUP_ID = -1002491572572
-MAX_THREADS = 1500
-max_duration = 120
-daily_attack_limit = 3
+MAX_THREADS = 2000
+max_duration = 200
+daily_attack_limit = 5
 
 # Attack & Feedback System
 attack_running = False
